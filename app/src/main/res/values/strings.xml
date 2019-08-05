@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="title_hint">Deal Title</string>
+    <string name="price_hint">Price (digits only)</string>
+    <string name="description_hint">Description</string>
+    <string name="save_menu">Save</string>
+    <string name="delete_deal">Delete Deal</string>
+    <string name="list_activity_no_items">You dont have deals yet!</string>
+    <string name="placeholder_admin_upload_image">Select Image</string>
+    <string name="admim_img_deal_image">Deal Image</string>
+    <string name="txt_before_delete">Please save the deal before deleting</string>
+    <string name="error_fail_to_save">Failed to save item to the database!</string>
+    <string name="toast_deleted">Deal Deleted</string>
+    <string name="toast_saved">Deal saved</string>
+</resources>
